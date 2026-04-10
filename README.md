@@ -9,7 +9,7 @@ Skilled in Power BI, Excel, and data-driven decision making.
 ## 🚀 My Projects
 
 ### 📊 Financial Analysis Dashboard
-🔗 (Add your project link here)
+🔗 (https://github.com/aigazala456-arc/Financial-Analysis-Dashboard)
 
 ---
 
