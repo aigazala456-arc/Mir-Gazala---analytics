@@ -1,8 +1,8 @@
 # Hi, I'm Gazala 👋
 
 ## 💼 About Me
-Finance professional with 3+ years of experience, now transitioning into Data Analytics.  
-Skilled in Power BI, Excel, and data-driven decision making.
+Finance professional with 3+ years of experience in accounting and financial reporting. 
+Currently transitioning into Data Analytics with a focus on Power BI, Excel, and data-driven decision making.
 
 ---
 
@@ -17,9 +17,16 @@ Skilled in Power BI, Excel, and data-driven decision making.
 - Power BI  
 - Microsoft Excel  
 - Financial Analysis  
-- Data Visualization  
+- Data Visualization
+- Data Cleaning
+
+---
+
+## 🎯 Career Goal
+To leverage my finance background and analytical skills to solve real business problems through data.  
 
 ---
 
 ## 📫 Connect With Me
 - LinkedIn: (add your link later)
+- Email : aigazala456@gmail.com
